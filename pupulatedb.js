@@ -3,7 +3,7 @@ const mongoose = require('mongoose');
 
 const User = require('./models/User');
 
-const db = 'mongodb://localhost/hellodb';
+const db = 'mongodb+srv://Ghia:manchi5615@cluster0.zu9ji.mongodb.net/myFirstDatabase?retryWrites=true&w=majority';
 
 const users = [
   {
